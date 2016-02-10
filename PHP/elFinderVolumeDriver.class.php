@@ -510,7 +510,7 @@ abstract class elFinderVolumeDriver {
 		'mpeg'  => 'video/mpeg',
 		'mpg'   => 'video/mpeg',
 		'mov'   => 'video/quicktime',
-		'wm'    => 'video/x-ms-wmv',
+		'wmv'    => 'video/x-ms-wmv',
 		'flv'   => 'video/x-flv',
 		'mkv'   => 'video/x-matroska',
 		'webm'  => 'video/webm',
